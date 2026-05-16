@@ -30,5 +30,4 @@ A modern MERN stack application that allows users to sync their Gmail emails, st
    cd backend && npm run dev:all
    ```
 
-## License
-MIT
+
